@@ -1,6 +1,4 @@
-# PIDetect
-
-# PID-Based Process Control & Anomaly Detection
+# PIDetect - A PID-Based Process Control & Anomaly Detection
 
 This project implements a **PID-based process control system** with anomaly detection, leveraging **Python, Streamlit, and Scikit-learn**. The system allows users to **adjust PID parameters**, visualize system behavior, and detect anomalies using **Isolation Forest**. It simulates a **first-order system** and provides real-time insights into control performance.
 
