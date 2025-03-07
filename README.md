@@ -13,7 +13,6 @@ This project implements a **PID-based process control system** with anomaly dete
 - [How It Works](#-how-it-works)
 - [Performance Metrics](#-performance-metrics)
 - [Anomaly Detection](#-anomaly-detection)
-- [Screenshots](#-screenshots)
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
 - [License](#-license)
