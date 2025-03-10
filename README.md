@@ -4,7 +4,7 @@ This project implements a **PID-based process control system** with anomaly dete
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 - [Features](#-features)
 - [Installation](#-installation)
 - [Usage](#-usage)
@@ -18,7 +18,7 @@ This project implements a **PID-based process control system** with anomaly dete
 
 ---
 
-## 🚀 Features
+## Features
 ✅ **PID Controller Implementation**: Adjustable proportional, integral, and derivative gains.  
 ✅ **First-Order System Simulation**: Uses **ODE integration** for realistic process modeling.  
 ✅ **Real-Time Performance Metrics**: Computes **rise time, settling time, overshoot, and IAE**.  
@@ -28,11 +28,11 @@ This project implements a **PID-based process control system** with anomaly dete
 
 ---
 
-## 📦 Installation
+## Installation
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/repository-name.git
-cd repository-name
+git clone https://github.com/v1v3x/PIDetect.git
+cd PIdetect
 ```
 ### **2. Install Dependencies**
 ```bash
